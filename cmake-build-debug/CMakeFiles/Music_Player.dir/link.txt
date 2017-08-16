@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Music_Player.dir/Player.cpp.o  -o Music_Player -Wl,-rpath,/Library/Frameworks -framework SDL2 -framework Cocoa 

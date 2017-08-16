@@ -1,0 +1,3 @@
+/Users/adityapokharel/CLionProjects/Music-Player/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/adityapokharel/CLionProjects/Music-Player/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adityapokharel/CLionProjects/Music-Player/cmake-build-debug/CMakeFiles/Music_Player.dir

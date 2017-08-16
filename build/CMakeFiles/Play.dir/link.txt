@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Play.dir/Player.cpp.o  -o Play -Wl,-rpath,/Library/Frameworks -framework SDL2 -framework Cocoa 
